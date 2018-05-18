@@ -1,9 +1,11 @@
 # Code-Sample
 While writing the code samples it's good to go by these principles (unless we can find better)
 - When in Doubt on the level of detail we need to explain - Assume the user is new to Azure and new to Key Vault
+    We could sure have links to explain topics in further detail but all important topics should be explained on the main page. 
+    For example (Intro to Key Vault should explain Service Principal in base detail and we should have a link to explain it in further detail)
 - The samples / quickstarts should work / have instructions on how to get it to work on Windows / Linux and Mac OS
 - We should not favor Windows centric worlds
-- Every sample should be such that user can finish the sample by reading a single web page + code editor. We could sure have links to explain topics in further detail but all important topics should be explained on the main page
+- Every sample should be such that user can finish the sample by reading a single web page + code editor. 
 
 # Project Name
 (short, 1-3 sentenced, description of the project)

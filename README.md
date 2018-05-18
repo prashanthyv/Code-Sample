@@ -11,7 +11,6 @@ While writing the code samples it's good to go by these principles (unless we ca
 (short, 1-3 sentenced, description of the project)
 This project allows you to do 
 - Create a key vault (As an example)
-- 
 
 ### Prerequisites
 
